@@ -23,8 +23,10 @@ require (
 	github.com/vanng822/css v0.0.0-20190504095207-a21e860bcd04 // indirect
 	github.com/vanng822/go-premailer v0.0.0-20191214114701-be27abe028fe
 	golang.org/x/crypto v0.0.0-20181029175232-7e6ffbd03851
-	golang.org/x/sys v0.0.0-20190225065934-cc5685c2db12 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
+	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df // indirect
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 )
 
